@@ -26,7 +26,7 @@ const allTheDays = [
 
 // Dinamic Data //
 
-// Creo un oggetto Date che rappresenta la data e l'ora corrente //
+// Creo un oggetto Date per la data e l'ora corrente //
 const dateNow = new Date();
 
 // Stampa dell'oggetto Date //
